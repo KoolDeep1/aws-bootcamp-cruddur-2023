@@ -21,6 +21,9 @@ vscode:
   extensions:
     - 42Crunch.vscode-openapi
 ```
+
+You can see in the screenshot bellow that the installation was successful:
+
 ![installing AWS CLI](assets/proof_of_aws_cli.png)
 
 ## Homework Challenges
