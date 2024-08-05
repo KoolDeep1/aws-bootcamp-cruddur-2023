@@ -21,7 +21,7 @@ vscode:
   extensions:
     - 42Crunch.vscode-openapi
 ```
-! [installing AWS CLI](assets/proof_of_aws_cli.png)
+![installing AWS CLI](assets/proof_of_aws_cli.png)
 
 ## Homework Challenges
 
