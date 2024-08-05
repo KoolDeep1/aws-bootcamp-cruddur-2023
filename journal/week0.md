@@ -2,7 +2,7 @@
 
 ## Required Homework
 
-### Installing AWS CLI
+### Install and verify AWS CLI
 
 See the updtated Gitpod.Yaml file under AWS folder. Attaching the code below for convenience:
 
@@ -21,8 +21,7 @@ vscode:
   extensions:
     - 42Crunch.vscode-openapi
 ```
-
-**Note to Insert Image**
+! [installing AWS CLI](assets/proof_of_aws_cli.png)
 
 ## Homework Challenges
 
