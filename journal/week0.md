@@ -4,6 +4,8 @@
 
 ### Install and verify AWS CLI
 
+I installed the AWS CLI on Gitpod via iTerm. I followed the instructions for the Linux installation from the [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
 See the updtated Gitpod.Yaml file under AWS folder. Attaching the code below for convenience:
 
 ```
