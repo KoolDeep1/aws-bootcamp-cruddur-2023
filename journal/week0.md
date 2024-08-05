@@ -22,6 +22,7 @@ vscode:
     - 42Crunch.vscode-openapi
 ```
 
+**Note to Insert Image**
 
 ## Homework Challenges
 
