@@ -45,10 +45,14 @@ vscode:
 
 You can see in the screenshot bellow that the installation was successful:
 
-![installing AWS CLI](assets/proof_of_aws_cli.png)
+![installing AWS CLI](journal/assets/proof_of_aws_cli.png)
 
 
-![Image of the budget alarm I created](assets/budgets_alarm.png)
+![Image of the budget alarm I created](journal/assets/budgets_alarm.png)
+
+### Cruddur Logical Architectural Diagram
+
+![Cruddur Logical Architectural Diagram](journal/assets/Cruddur-Logical-Diagram.png)
 
 
 ## Homework Challenges
