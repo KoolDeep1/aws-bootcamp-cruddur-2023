@@ -55,3 +55,5 @@ You can see in the screenshot bellow that the installation was successful
 ### Cruddur Logical Architectural Design
 
 ![Cruddur Logical Architectural Diagram](assets/Cruddur-Logical-Diagram.png)
+
+[Lucid Charts Share Link](https://lucid.app/lucidchart/ed86a6d4-bc97-4bff-93fe-c6d57333969a/edit?viewport_loc=-403%2C64%2C2680%2C1678%2C0_0&invitationId=inv_d4aece03-f448-4331-86da-c40538c2d985)
