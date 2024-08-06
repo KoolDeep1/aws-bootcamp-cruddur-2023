@@ -41,12 +41,17 @@ tasks:
 # List of VS Code extensions to be installed in the development environment
 vscode:
   extensions:
-    - 42Crunch.vscode-openapi  # Extension for OpenAPI (Swagger) support```
+    - 42Crunch.vscode-openapi  # Extension for OpenAPI (Swagger) support
+```
 
 You can see in the screenshot bellow that the installation was successful
 
 ![installing AWS CLI](assets/proof_of_aws_cli.png)
 
+### Create a Budget
+
 ![Image of the budget alarm I created](assets/budgets_alarm.png)
 
-![Cruddur Logical Architectural Diagram](journal/assets/Cruddur-Logical-Diagram.png)
+### Cruddur Logical Architectural Design
+
+![Cruddur Logical Architectural Diagram](assets/Cruddur-Logical-Diagram.png)
