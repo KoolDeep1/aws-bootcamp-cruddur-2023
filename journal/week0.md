@@ -13,7 +13,7 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-See the updtated Gitpod.Yaml file under AWS folder. Attaching the code below for convenience:
+See Gitpod.Yaml file [here](https://github.com/KoolDeep1/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml). Attaching the code below for convenience:
 
 ```
 # Gitpod configuration file for setting up the development environment
