@@ -43,17 +43,10 @@ vscode:
   extensions:
     - 42Crunch.vscode-openapi  # Extension for OpenAPI (Swagger) support```
 
-You can see in the screenshot bellow that the installation was successful:
+You can see in the screenshot bellow that the installation was successful
 
-![installing AWS CLI](journal/assets/proof_of_aws_cli.png)
+![installing AWS CLI](assets/proof_of_aws_cli.png)
 
-
-![Image of the budget alarm I created](journal/assets/budgets_alarm.png)
-
-### Cruddur Logical Architectural Diagram
+![Image of the budget alarm I created](assets/budgets_alarm.png)
 
 ![Cruddur Logical Architectural Diagram](journal/assets/Cruddur-Logical-Diagram.png)
-
-
-## Homework Challenges
-
