@@ -47,5 +47,9 @@ You can see in the screenshot bellow that the installation was successful:
 
 ![installing AWS CLI](assets/proof_of_aws_cli.png)
 
+
+![Image of the budget alarm I created](assets/budgets_alarm.png)
+
+
 ## Homework Challenges
 
