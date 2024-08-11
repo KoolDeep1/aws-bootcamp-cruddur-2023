@@ -151,7 +151,7 @@ paths:
   /api/activities/notifications:
     get:
       description: 'Return a feed of activity for all of those that I follow'
-      - tags:
+      tags:
         - activities
       parameters: []
       responses:
